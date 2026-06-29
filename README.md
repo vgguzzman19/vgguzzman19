@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Modern+Web+Applications;Always+Learning" />
 
-<p align="center">
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="800">
-</p>
-
 </div>
 
 ---
