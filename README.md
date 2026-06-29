@@ -1,46 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:8B0000&height=270&section=header&text=Hello,%20friend.&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=36&desc=Control%20is%20an%20illusion.&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=250&section=header&text=Hello,%20friend.&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Control%20is%20an%20illusion.&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=%24+whoami;Valentín+Guzmán;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Modern+Web+Applications;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Modern+Web+Applications;Always+Learning..." />
 
 </div>
 
 ---
 
-# 💻 Terminal
+# 👨‍💻 About Me
 
 ```bash
-$ whoami
+> whoami
 
 Valentín Guzmán
 
-$ role
+> role
 
 Full Stack Developer
 
-$ location
+> location
 
 Spain 🇪🇸
 
-$ currently
+> currently
 
-Studying Web Application Development (DAW)
+Studying Web Application Development
 
-$ interests
+> interests
 
-- Web Development
-- Cybersecurity
-- Ethical Hacking
-- Linux
-- Networking
-- Open Source
+• Full Stack Development
+• Cybersecurity
+• Ethical Hacking
+• Linux
+• Networking
+• Web Security
 
-$ motto
+> motto
 
 "Control is an illusion."
-
-█
 ```
 
 ---
@@ -55,7 +53,7 @@ $ motto
 
 ---
 
-# 🔐 Cybersecurity
+# 🔐 Cybersecurity Skills
 
 <p align="center">
 
@@ -77,9 +75,9 @@ $ motto
 
 <img src="https://img.shields.io/badge/Hydra-darkred?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Hashcat-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/John_the_Ripper-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Aircrack--ng-006400?style=for-the-badge"/>
 
@@ -90,100 +88,52 @@ $ motto
 # 📚 Currently Learning
 
 ```text
-▸ Full Stack Development
-
-▸ Linux Administration
-
-▸ Docker
-
-▸ Web Security
-
-▸ Penetration Testing
-
-▸ Active Directory
-
-▸ Networking
-
-▸ Reverse Engineering
+✓ JavaScript
+✓ PHP
+✓ C#
+✓ SQL
+✓ Docker
+✓ Linux
+✓ Git
+✓ Networking
+✓ Web Security
+✓ Penetration Testing
 ```
 
 ---
 
-# ⚡ Current Stack
+# ⚡ Terminal
 
 ```javascript
-const developer = {
-
-    name: "Valentín Guzmán",
-
+const valentin = {
     role: "Full Stack Developer",
-
-    language: [
-        "JavaScript",
-        "PHP",
-        "C#",
-        "SQL"
+    learning: [
+        "Cybersecurity",
+        "Web Development",
+        "Linux",
+        "Networking"
     ],
+    motto: "Control is an illusion.",
+    status: "Always learning..."
+};
 
-    tools: [
-        "Docker",
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Linux"
-    ],
-
-    cybersecurity: [
-        "Kali Linux",
-        "Nmap",
-        "Burp Suite",
-        "Wireshark",
-        "Metasploit",
-        "SQLMap"
-    ],
-
-    status: "Always learning."
+while (true) {
+    code();
+    learn();
+    improve();
 }
 ```
 
 ---
 
-# 📂 Interests
-
-```text
-🌐 Full Stack Development
-
-🔐 Cybersecurity
-
-🐧 Linux
-
-⚡ Automation
-
-☁️ Cloud Computing
-
-🛡️ Ethical Hacking
-
-🧠 Clean Code
-
-🚀 Open Source
-```
-
----
-
-# 👁 Visitors
-
 <div align="center">
+
+### 👁 Visitors
 
 <img src="https://komarev.com/ghpvc/?username=vgguzzman19&style=for-the-badge&color=red"/>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### Hello, friend.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
 
 </div>
