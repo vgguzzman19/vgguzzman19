@@ -125,3 +125,7 @@ while (true) {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer"/>
 
 </div>
+
+<p align="center">
+<img width="700" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+</p>
