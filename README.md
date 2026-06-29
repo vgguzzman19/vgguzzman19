@@ -126,6 +126,3 @@ while (true) {
 
 </div>
 
-<p align="center">
-<img width="700" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-</p>
