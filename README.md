@@ -47,7 +47,7 @@ Studying Web Application Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,docker,git,github,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,docker,git,github,vscode,linux,bash,claude" />
 
 </p>
 
