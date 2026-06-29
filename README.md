@@ -91,7 +91,6 @@ Studying Web Application Development
 
 ---
 
-# ⚡ Terminal
 
 ```javascript
 const valentin = {
