@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=250&section=header&text=Hello,%20friend.&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Control%20is%20an%20illusion.&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Modern+Web+Applications;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&lines=%24+Hello,+friend.;%24+whoami;%24+Valentín+Guzmán;%24+echo+%22Control+is+an+illusion.%22" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Modern+Web+Applications;Always+Learning..." />
 
 </div>
 
@@ -98,6 +102,8 @@ Studying Web Application Development
 ✓ Networking
 ✓ Web Security
 ✓ Penetration Testing
+✓ Active Directory
+✓ Reverse Engineering
 ```
 
 ---
@@ -106,22 +112,72 @@ Studying Web Application Development
 
 ```javascript
 const valentin = {
+
     role: "Full Stack Developer",
-    learning: [
-        "Cybersecurity",
-        "Web Development",
-        "Linux",
-        "Networking"
+
+    languages: [
+        "JavaScript",
+        "PHP",
+        "C#",
+        "SQL"
     ],
+
+    development: [
+        "Docker",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Linux"
+    ],
+
+    cybersecurity: [
+        "Kali Linux",
+        "Nmap",
+        "Burp Suite",
+        "Metasploit",
+        "SQLMap",
+        "Wireshark"
+    ],
+
     motto: "Control is an illusion.",
+
     status: "Always learning..."
+
 };
 
 while (true) {
+
     code();
+
     learn();
+
     improve();
+
 }
+```
+
+---
+
+# 🎯 Interests
+
+```text
+🌐 Full Stack Development
+
+🔐 Cybersecurity
+
+🛡️ Ethical Hacking
+
+🐧 Linux
+
+🌍 Networking
+
+☁️ Cloud Computing
+
+⚡ Automation
+
+🧠 Clean Code
+
+🚀 Open Source
 ```
 
 ---
@@ -134,6 +190,6 @@ while (true) {
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer"/>
 
 </div>
