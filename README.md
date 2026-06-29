@@ -49,7 +49,7 @@ Studying Web Application Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,docker,git,github,vscode,linux,bash,claude" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claudecode/claudecode-original.svg" width="48" height="48" alt="Claude Code" />
+<img src="https://devicon-website.vercel.app/api/claudecode/original.svg" width="48" height="48" alt="Claude Code"/>
 
 </p>
 
