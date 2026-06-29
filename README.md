@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vgguzzman19/vgguzzman19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, friend. 👋
 
-Here are some ideas to get you started:
+> *"Control is an illusion."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full Stack Developer
+
+Currently studying Web Application Development and building modern web experiences.
+
+---
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,docker,git,github,vscode" />
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vgguzzman19&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgguzzman19&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
